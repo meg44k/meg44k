@@ -1,4 +1,4 @@
-## meg44k/Yamada Yugo
+## meg44k/YamadaYugo
 
 ### 学んでいること
 - Python
