@@ -1,17 +1,18 @@
-## Hi there 👋
+## meg44k/Yamada Yugo
+
+### 学んでいること
+- Python
+- C
+- Next.js
+- Node.js
+- Flask
+- SQL
+- インフラ
+### 学ぼうと思っていること
+- tailwind
+- Django
+
+### 作っている物
+- 写真一枚から英単語帳が作れるwebアプリ
+- Valorantのランダムピック、ランダムマップが行えるDiscordBot
 ![](https://raw.githubusercontent.com/meg44k/meg44k/output/github-contribution-grid-snake.svg)
-
-<!--
-**meg44k/meg44k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
