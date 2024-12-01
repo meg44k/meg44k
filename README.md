@@ -1,18 +1,21 @@
 ## meg44k/YamadaYugo
+Japanese beginner programmer
 
-### 学んでいること
-- Python
-- C
-- Next.js
-- Node.js
-- Flask
-- SQL
-- インフラ
-### 学ぼうと思っていること
-- tailwind
-- Django
+2005 / NitKit
 
-### 作っている物
-- 写真一枚から英単語帳が作れるwebアプリ
-- Valorantのランダムピック、ランダムマップが行えるDiscordBot
+### Learning
+
+- Web Backend
+- CS
+
+##Interested in
+
+- Go
+- Web
+- OSS
+- etc...
+
+### Products
+- [高専祭(学祭)の3Dマップおよびナビゲーションウェブアプリ](https://github.com/meg44k/NavigationKCTFesApp)
+- [画像から単語帳を作るウェブアプリ : ハックツハッカソン](https://github.com/meg44k/Hackathon-stego)
 ![](https://raw.githubusercontent.com/meg44k/meg44k/output/github-contribution-grid-snake.svg)
