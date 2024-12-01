@@ -1,4 +1,4 @@
-## meg44k/YamadaYugo
+## Megaak(meg44k) / Yamada Yugo
 Japanese beginner programmer
 
 2005 / NitKit
