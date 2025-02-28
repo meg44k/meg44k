@@ -13,6 +13,7 @@ Japanese beginner programmer
 - Go
 - Web
 - OSS
+- etc...
 
 ### Products
 - [高専祭(学祭)の3Dマップおよびナビゲーションウェブアプリ](https://github.com/meg44k/NavigationKCTFesApp)
