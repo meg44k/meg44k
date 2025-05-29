@@ -1,12 +1,12 @@
 ## Megaak(meg44k) / Yamada Yugo
-Japanese beginner programmer
 
 2005 / NitKit
 
 ### Learning
 
-- Web Backend
 - CS
+- NLP
+- CLWEs
 
 ### Interested in
 
@@ -20,5 +20,6 @@ Japanese beginner programmer
 - [画像から単語帳を作るウェブアプリ : ハックツハッカソン](https://github.com/meg44k/Hackathon-stego)
 - [りのまち-ウェブバックエンド](https://github.com/meg44k/Rinomachi-Back)
 ### In progress
+- [リアルタイムタイピング対戦 : 工学実験実習C](https://github.com/meg44k/PracticalClass2025)
 
 ![](https://raw.githubusercontent.com/meg44k/meg44k/output/github-contribution-grid-snake.svg)
