@@ -5,8 +5,7 @@
 ### Learning 📝
 
 - CS
-- NLP
-- CLWEs
+- NLP / CLWEs
 
 ### Interested in 👀
 
