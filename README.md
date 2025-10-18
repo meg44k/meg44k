@@ -25,6 +25,6 @@
   
 ### In progress 🔥
 
-- [高専祭2026のクラス展示用のバックエンド](https://github.com/meg44k/kct-fes-2026-5I-backend)
+- [高専祭2026のクラス展示用のバックエンド](https://github.com/shii-park/Metasugo-Backend)
 
 ![](https://raw.githubusercontent.com/meg44k/meg44k/output/github-contribution-grid-snake.svg)
