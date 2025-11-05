@@ -18,30 +18,35 @@ Megaak(meg44k) / Yamada Yugo
 
 ## Products 📌
 
-### 3Dナビゲーションサイト / 高専祭2025
+### 3Dナビゲーションサイト / 高専祭2025 / Frontend
 
 - Repo: https://github.com/meg44k/NavigationKCTFesApp
+- Site: https://kitakyushu-kosen-fes.vercel.app
 
-### 画像から単語帳を作るウェブアプリ / ハックツハッカソン
+### 画像から単語帳を作るウェブアプリ / ハックツハッカソン / FullStack
 
 - Repo: https://github.com/meg44k/Hackathon-stego
+- Site: Undeployed
 
-### りのまち / インターン
+### りのまち / インターン / Backend
 
 - Repo: https://github.com/meg44k/Rinomachi-Back
+- Site: Undeployed
 
-### タイピング対戦 / 工学実験実習C
+### タイピング対戦 / 工学実験実習C / FullStack
 
 - Repo: https://github.com/meg44k/PracticalClass2025
+- Site: Undeployed
 
-### ストシュー(Stshoot) / ハックツハッカソン
+### ストシュー(Stshoot) / ハックツハッカソン / Backend
 
 - Repo: https://github.com/shii-park/Stshoot_Backend
+- Site: Stopped
 
-### メタすご / 高専祭2026
+### メタすご / 高専祭2026 / Backend
 
 - Repo: https://github.com/shii-park/Metasugo-Backend
-
+- Site: https://metasugo.vercel.app
   
 ### In progress 🔥
 
