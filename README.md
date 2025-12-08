@@ -48,7 +48,9 @@ Megaak(meg44k) / Yamada Yugo
 - Repo: https://github.com/shii-park/Metasugo-Backend
 - Site: https://metasugo.vercel.app
   
-### In progress 🔥
+## In progress 🔥
 
-
+### 2vs2将棋 / ハックツハッカソン / Infrastructure?
+- Repo: https://github.com/shii-park/2vs2shogi
+- Site: Still developing
 ![](https://raw.githubusercontent.com/meg44k/meg44k/output/github-contribution-grid-snake.svg)
