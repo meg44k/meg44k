@@ -12,7 +12,7 @@ Megaak(meg44k) / Yamada Yugo
 ## Interested in 👀
 
 - Go
-- Web
+- Web-Backend
 - OSS
 - etc...
 
