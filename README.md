@@ -4,7 +4,7 @@ Megaak(meg44k) / Yamada Yugo
 
 2005 / NitKit
 
-Portfolio Site: https://yamada-yugo-portfolio.vercel.app/ (under construction)
+Portfolio Site: ~https://yamada-yugo-portfolio.vercel.app/~ (under construction)
 
 ## Learning 📝
 
