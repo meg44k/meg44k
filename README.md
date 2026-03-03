@@ -35,7 +35,7 @@ Portfolio Site: ~https://yamada-yugo-portfolio.vercel.app/~ (under construction)
 - Repo: https://github.com/meg44k/Rinomachi-Back
 - Site: Undeployed
 
-### タイピング対戦 / 工学実験実習C / FullStack
+### タイピング対戦 / 工学実験実習C / Fullstack
 
 - Repo: https://github.com/meg44k/PracticalClass2025
 - Site: Undeployed
@@ -49,10 +49,22 @@ Portfolio Site: ~https://yamada-yugo-portfolio.vercel.app/~ (under construction)
 
 - Repo: https://github.com/shii-park/Metasugo-Backend
 - Site: https://metasugo.vercel.app
-  
-## In progress 🔥
+
+###フリキング / nulabハックツハッカソン / Fullstack
+
+- Repo: https://github.com/shii-park/friends
+- Site: https://friends-app-frontend.gentlecoast-82b23d45.japanwest.azurecontainerapps.io/
 
 ### 2vs2将棋 / ハックツハッカソン / Infrastructure?
 - Repo: https://github.com/shii-park/2vs2shogi
 - Site: Still developing
+
+## In progress 🔥
+
+
+### FukuReco / 個人開発サービス / Fullstack
+
+- Repo: https://github.com/meg44k/FukuReco
+- Site: https://fukureco.jp/
+
 ![](https://raw.githubusercontent.com/meg44k/meg44k/output/github-contribution-grid-snake.svg)
