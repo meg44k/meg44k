@@ -18,7 +18,7 @@ Megaak(meg44k) / Yamada Yugo
 - Repo: https://github.com/meg44k/FukuReco
 - Site: https://fukureco.jp/
 
-### 3Dナビゲーションサイト
+### 高専祭ナビゲーションウェブアプリ
 高専祭2026 / Leader-Fullstack
 - Repo: https://github.com/meg44k/KCTFestNav-Backend
 - Site: Still Developing
