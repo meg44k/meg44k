@@ -13,7 +13,7 @@ Megaak(meg44k) / Yamada Yugo
 
 
 ### フクレコ 
-個人開発サービス / Fullstack
+個人開発(3名)サービス / Fullstack
 
 - Repo: https://github.com/meg44k/FukuReco
 - Site: https://fukureco.jp/
